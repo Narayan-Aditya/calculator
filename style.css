@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+.box{
+    margin: auto;
+    max-width: fit-content;
+}
+button{
+    font-size: xx-large;
+    padding: 20px;
+    margin: 5px;
+    background-color: black;
+    border-radius: 22px;
+    
+}
+.equal,.ac{
+    background-color: #ff3d0094;
+    width: 133px;
+}
+.percentage,.div,.mul,.sub,.add,.del,.equal,.ac{
+    color: orangered;
+}
+.zero,.one,.two,.three,.four,.five,.six,.seven,.eigth,.nine,.point{
+    color: white;
+}
+.input{
+    padding: 30px 0px;
+    margin: 0;
+    color: aliceblue;
+    text-align: end;
+    font-size: x-large;
+    border-radius: 60px;
+}
